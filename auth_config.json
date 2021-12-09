@@ -1,6 +1,6 @@
 {
-  "domain": "YOUR_AUTH0_DOMAIN",
-  "clientId": "YOUR_AUTH0_CLIENT_ID",
+  "domain": "dev--t7vuisx.us.auth0.com",
+  "clientId": "aqmGiOPfThLcpDGgfIrWrIQCPjlunOCX",
   "audience": "https://express.sample",
   "serverUrl": "http://localhost:6060"
 }
